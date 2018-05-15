@@ -1,6 +1,6 @@
-## From nominal values to numerical values -Spark Example (pyspark)
+# From nominal values to numerical values -Spark Example (pyspark)
 
-# About
+## About
 
 This is a practical example of how to transform nominal values to numerical values using Spark. 
 
